@@ -1,1 +1,1 @@
-<iframe src="https://en.vidaxl.ae/account/details"></iframe>
+<script src="https://en.vidaxl.ae/account/details"></script>
